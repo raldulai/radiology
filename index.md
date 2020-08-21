@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my page
+
+My name is Ragheed. I am a programmer and 
 
 You can use the [editor on GitHub](https://github.com/raldulai/radiology/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
